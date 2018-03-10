@@ -1,6 +1,7 @@
 package this_key;
 public class ABC 
 {
+	
 	String name;
 	int id;
 	float salary;
