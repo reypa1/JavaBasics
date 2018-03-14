@@ -3,6 +3,7 @@ package abstraction;
 public abstract class Class_A 
 {
 
+	//Abstraction
 	public Class_A()
 	{
 		System.out.println("This is constructor");
