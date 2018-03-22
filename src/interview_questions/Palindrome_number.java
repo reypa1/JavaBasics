@@ -4,16 +4,16 @@ public class Palindrome_number
 {
 	public static void main(String[] args) 
 	{
-		int b=0;
+		int a=0;
+		int b=121;
 		int temp;
-		int a=121;
-		temp=a;
-		while(a>0)
+		temp=b;
+		while(b>0)
 		{
-			b=b*10+a%10;
-			a=a/10;
+			a=a*10+b%10;
+			b=b/10;
 		}
-		if(temp==b)
+		if(temp==a)
 		System.out.println("Number is palindrome");
 		else
 			System.out.println("Number is not a palindrome");

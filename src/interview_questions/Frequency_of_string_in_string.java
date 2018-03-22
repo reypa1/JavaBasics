@@ -6,7 +6,7 @@ public class Frequency_of_string_in_string
 {
 	public static void main(String[] args) 
 	{
-		    String s = "Hi myself pavan myself kumar myself muppa";
+		    String s = "hi pavan kumar muppa pavan kumar hi";
 	        String a[] = s.split(" ");
 	        Map<String, Integer> words = new HashMap<>();
 	        for (String str : a) 
