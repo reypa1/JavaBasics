@@ -4,7 +4,7 @@ public class Rev_sentence_inString
 {
 	public static void main(String[] args) 
 	{
-		String input = " I love India";
+		String input = " Hi dude";
 		String[] split = input.split(" ");
 		String result = " ";
 		for(int i = split.length - 1; i >= 0; i--) 
