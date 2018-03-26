@@ -17,7 +17,7 @@ public class Print_smallest_Largest
 			smallest=numbers[i];
 		}
 		}
-		System.out.println("Largest number in a given array is : "+largest);
+		System.out.println("Largest number in a given array  is : "+largest);
 		System.out.println("smallest number in a given array is : "+smallest);	
 	}
 }
