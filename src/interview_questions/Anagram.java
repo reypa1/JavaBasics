@@ -5,7 +5,7 @@ public class Anagram
 	public static void main(String[] args)
 	{	     
 		        String s1 = "pavan";  
-		        String s2 = "navap";  
+		        String s2 = "anvap";  
 		        boolean status = true;  
 		        if (s1.length() != s2.length()) 
 		        {  

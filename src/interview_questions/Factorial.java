@@ -4,12 +4,12 @@ public class Factorial
 {
 	public static void main(String[] args) 
 	{
-		int number = 6;
-        long fact = 1;
-        for(int i = 1; i <= number; i++)
+		int a = 9;
+        long b = 1;
+        for(int i = 1; i <= a; i++)
         {
-            fact = fact * i;
+            b = b * i;
         }
-        System.out.println("Factorial of "+number+" is: "+fact);
+        System.out.println("Factorial of "+a+" is: "+b);
 	}
 }
