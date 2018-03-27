@@ -13,7 +13,5 @@ public class Even_odd {
       {
     	  System.out.println("Given number is odd");
       }
-
 	}
-
 }
