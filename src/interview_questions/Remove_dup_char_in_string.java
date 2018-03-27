@@ -13,8 +13,10 @@ public class Remove_dup_char_in_string
         {
             char ch = s1.charAt(i);
             if(ch!=' ')
+            {
             s2 = s2 + ch;
             s1 = s1.replace(ch,' '); //Replacing all occurrence of the current character by a space
+            }
         }
         System.out.println("Word after removing duplicate characters : " + s2);
 	}
