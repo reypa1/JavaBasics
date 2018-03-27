@@ -19,7 +19,5 @@ public class SwapElements_InList {
 	Collections.swap(list, 1, 3);
 	
 	System.out.println("Elements After swapping is  : "+list);
-
 	}
-
 }
