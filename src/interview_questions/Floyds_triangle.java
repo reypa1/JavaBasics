@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class Floyds_triangle 
 {
+@SuppressWarnings("resource")
 public static void main(String[] args) 
 {
 	int n, num = 1, c, d;
