@@ -19,7 +19,5 @@ public class Swap
 		
 		System.out.println("Before swapping a is : "+a);
 		System.out.println("Before swapping b is : "+b);
-
 	}
-
 }

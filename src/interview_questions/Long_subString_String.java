@@ -29,7 +29,7 @@ public static String substring(String input)
 	
 	public static void main(String[] args) 
 	{
-		String input="koteswarimuppa";
+		String input="pavanmuppa";
 		System.out.println(substring(input));
 	}
 }
