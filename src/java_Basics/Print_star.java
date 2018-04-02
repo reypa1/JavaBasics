@@ -1,4 +1,4 @@
-package interview_questions;
+package java_Basics;
 
 public class Print_star 
 {
