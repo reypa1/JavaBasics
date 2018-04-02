@@ -7,7 +7,7 @@ public class Dup_element_inArray
 		//For string
 		String [] s1={"java", "c","c++","javascript", "java", "c"};
 	
-        for (int i = 0; i < s1.length-1; i++)
+        for (int i = 0; i < s1.length; i++)
         {
             for (int j = i+1; j < s1.length; j++)
             {
@@ -21,7 +21,7 @@ public class Dup_element_inArray
       //For numbers  
       int[] my_array = {1, 2, 5, 5, 6, 6, 7, 2};
       
-      for (int i = 0; i < my_array.length-1; i++)
+      for (int i = 0; i < my_array.length; i++)
       {
           for (int j = i+1; j < my_array.length; j++)
           {

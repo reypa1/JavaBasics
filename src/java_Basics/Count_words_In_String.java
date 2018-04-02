@@ -8,7 +8,7 @@ public class Count_words_In_String
 		 
 		int count = 1;
  
-		for (int i = 1; i < s.length() - 1; i++)
+		for (int i = 1; i < s.length(); i++)
 		{
 			if ((s.charAt(i) == ' ') && (s.charAt(i + 1) != ' '))
 			{

@@ -17,5 +17,4 @@ public class Remove_duplicates_String
 		}
           System.out.println("Word with unique characters is : "+s2);
 	}
-
 }
