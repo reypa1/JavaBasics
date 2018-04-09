@@ -11,7 +11,6 @@ public class Reverse_number
 			b=b*10+a%10;
 			a=a/10;
 		}
-		
 		System.out.println("Revaersed number is : "+b);
 	}
 }
