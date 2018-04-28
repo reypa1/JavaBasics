@@ -14,4 +14,28 @@ public class Class_B extends Class_A
 		System.out.println("This is car loan method");
 	}
 
+	@Override
+	public void credit() 
+	{
+		// TODO Auto-generated method stub
+		
+	}
+	
+
+	@Override
+	public void debit() 
+	{
+		// TODO Auto-generated method stub
+		
+	}
+	public static void main(String[] args) 
+	{
+		Class_B b=new Class_B();
+		b.carloan();
+		b.credit();
+		b.debit();
+		b.loan();
+	}
+	
+
 }

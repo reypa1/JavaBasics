@@ -5,7 +5,7 @@ public class Rem_dup_strings_inArray2
 {
 	public static void main(String[] args) 
 	{
-		String names[]={"java","ruby","python","c#","c","java","php","c"};
+		String names[]={"java","ruby","python","c#","c","php", "java"};
 		Set<String> s=new HashSet<String>();
 		for (String str : names) 
 		{
